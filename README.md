@@ -1,6 +1,6 @@
 # WarTank
 
-  WarTank is a WebSocket Game Project
+  WarTank is a Game Project ( WebSocket / HTML5 CANVAS )
 
 
 ## Install dependencies:
@@ -9,15 +9,15 @@
 $ npm install
 ```
 
+## Start the server:
+
+```bash
+$ npm start
+```
+
 ## Dependencies
 
 ```bash
 $ npm install express
 $ npm install ws
-```
-
-## Start the server:
-
-```bash
-$ node start
 ```
