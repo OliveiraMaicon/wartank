@@ -89,8 +89,8 @@ var gameEngine = {
 
         var lvl01 = [
             "bbbbbbbbbbbbbbbbbbbb",
-            "b000b00000000000000b",
-            "bbbbbbb0bbbbbbbbbb0b",
+            "b000000000000000000b",
+            "b0bbbbb0bbbbbbbbbb0b",
             "b000000000000000000b",
             "bbb0bbbbb0bb0bbbbbbb",
             "b000000000000000000b",
