@@ -1,8 +1,6 @@
-# Description
+# WarTank
 
-```bash
-WarTank WebSocket Game
-```
+  WarTank is a WebSocket Game Project
 
 ## Installation
 
