@@ -1,0 +1,35 @@
+{
+  "name": "WarTank",
+  "version": "1.0.0",
+  "description": "WebSocket Game Project",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.12.4",
+    "socket.io": "^1.3.5",
+    "ws": "^0.7.2"
+  },
+  "devDependencies": {
+    "express": "^4.12.4",
+    "ws": "^0.7.2"
+  },
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antuane/wartank.git"
+  },
+  "keywords": [
+    "websocket",
+    "game",
+    "wartank",
+    "antuane"
+  ],
+  "author": "Diogenes Silveira - antuane.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antuane/wartank/issues"
+  },
+  "homepage": "https://github.com/antuane/wartank"
+}
